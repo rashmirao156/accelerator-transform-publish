@@ -54,6 +54,6 @@ dependencies {
 }
 
 bootJar {
-	baseName = 'accelerator-transform-publish'
+	baseName = 'accelerator-trade-publish'
 	version = '1.0.0'
 }
